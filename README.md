@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Manwatkar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🔭 I’m currently working on **File sharing application**
+- 🔭 I’m currently working on **PCB Defect Detection Techniques**
 
 - 🌱 I’m currently learning **MERN Stack**
 
